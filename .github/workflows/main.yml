@@ -16,3 +16,17 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           USERNAME: jubaan
           SHOW_TITLE: true
+
+name: Profile Stack
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Matt-Gleich/profile_stack@master
