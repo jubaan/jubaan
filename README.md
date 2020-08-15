@@ -12,6 +12,9 @@ SCSS   1 hr 8 mins     ░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **jubaan/jubaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
