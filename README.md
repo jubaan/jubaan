@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/JulioAnoveros) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jubaan)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 07 August, 2020 - 14 August, 2020
