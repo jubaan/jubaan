@@ -17,7 +17,7 @@ jobs:
           USERNAME: jubaan
           SHOW_TITLE: true
 
-name: Profile Stack
+# name: Profile Stack
 
 on:
   push:
