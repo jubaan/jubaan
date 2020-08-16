@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2020 - 14 August, 2020
+Week: 08 August, 2020 - 15 August, 2020
 
 Ruby   33 hrs 6 mins   █████████████░░░░░░░░░░░░   53.71 % 
 Haml   19 hrs 25 mins  ████████░░░░░░░░░░░░░░░░░   31.52 % 
