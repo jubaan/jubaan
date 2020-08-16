@@ -26,7 +26,7 @@ SCSS   1 hr 8 mins     ░░░░░░░░░░░░░░░░░░░
 2. ❗️ Opened issue [#3](https://github.com//jubaan/capstone/issues/3) in [jubaan/capstone](https://github.com//jubaan/capstone)
 3. ❗️ Opened issue [#2](https://github.com//jubaan/capstone/issues/2) in [jubaan/capstone](https://github.com//jubaan/capstone)
 4. 💪 Opened PR [#1](https://github.com//jubaan/capstone/pull/1) in [jubaan/capstone](https://github.com//jubaan/capstone)
-5. ❗️ Opened issue [#3](https://github.com//jubaan/expense_tracker/issues/3) in [jubaan/expense_tracker](https://github.com//jubaan/expense_tracker)
+5. undefined
 <!--END_SECTION:activity-->
 
 <!--
