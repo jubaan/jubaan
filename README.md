@@ -4,6 +4,7 @@
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AnoverosJulio) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jubaan)
 
+### :construction_worker: Some stats by [WakaTime]('https://wakatime.com')
 <!--START_SECTION:waka-->
 ```text
 Week: 09 August, 2020 - 16 August, 2020
@@ -15,15 +16,6 @@ HTML   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░
 SCSS   1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com//jubaan/capstone/issues/4) in [jubaan/capstone](https://github.com//jubaan/capstone)
-2. ❗️ Opened issue [#3](https://github.com//jubaan/capstone/issues/3) in [jubaan/capstone](https://github.com//jubaan/capstone)
-3. ❗️ Opened issue [#2](https://github.com//jubaan/capstone/issues/2) in [jubaan/capstone](https://github.com//jubaan/capstone)
-4. 💪 Opened PR [#1](https://github.com//jubaan/capstone/pull/1) in [jubaan/capstone](https://github.com//jubaan/capstone)
-5. undefined
-<!--END_SECTION:activity-->
 
 ### :newspaper: Blog Posts
 <!-- BLOG-POST-LIST:START -->
