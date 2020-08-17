@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-📫 How to reach me:
+### :mailbox: How to reach me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AnoverosJulio) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jubaan)
-
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 <!--START_SECTION:waka-->
 ```text
@@ -21,6 +16,7 @@ SCSS   1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#4](https://github.com//jubaan/capstone/issues/4) in [jubaan/capstone](https://github.com//jubaan/capstone)
 2. ❗️ Opened issue [#3](https://github.com//jubaan/capstone/issues/3) in [jubaan/capstone](https://github.com//jubaan/capstone)
@@ -28,6 +24,10 @@ SCSS   1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░
 4. 💪 Opened PR [#1](https://github.com//jubaan/capstone/pull/1) in [jubaan/capstone](https://github.com//jubaan/capstone)
 5. undefined
 <!--END_SECTION:activity-->
+
+### :newspaper: Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **jubaan/jubaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
