@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Julio Añoveros a Remote Full-satck Web Developer based in Mexico. Actively searching for interesting projects and awesome people to participate with. But don't let that stop you from contacting me if you only want to make friends, grab a beer, have a chat, play chess, discuss some tech ideas, share business opportunities... 
+I'm Julio Añoveros a Remote Full-satck Web Developer based in Mexico. Actively searching for interesting projects and awesome people to participate with locally and remote. But don't let that stop you from contacting me if you only want to make friends, grab a beer, have a chat, play chess, discuss some tech ideas, share business opportunities... 
 
 ### :mailbox: How to reach me:
 
