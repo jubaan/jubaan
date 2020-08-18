@@ -21,6 +21,7 @@ SCSS   1 hr 55 mins    ▓░░░░░░░░░░░░░░░░░░
 
 ### :newspaper: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Benchmarking Your Code Will Improve Your Ruby Skills](https://dev.to/jubaan/how-benchmarking-your-code-will-improve-your-ruby-skills-2m83)
 <!-- BLOG-POST-LIST:END -->
 
 
