@@ -9,13 +9,13 @@ I'm Julio Añoveros a Remote Full-stack Web Developer based in Mexico. Searching
 ### :construction_worker: This week stats by [WakaTime]('https://wakatime.com')
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2020 - 20 September, 2020
+Week: 14 September, 2020 - 21 September, 2020
 
-Ruby       2 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   36.24 % 
-HTML       1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-CSS        1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Markdown   1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Other      45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Ruby       2 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   34.95 % 
+HTML       1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+CSS        1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Markdown   1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Other      45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 ```
 <!--END_SECTION:waka-->
 
